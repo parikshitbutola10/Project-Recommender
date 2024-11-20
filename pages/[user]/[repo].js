@@ -43,7 +43,7 @@ export default function RepositoryDetail() {
       <RepositoryDetailComponent user={username} repo={reponame} />
 
       <footer className='text-small w-full text-center mt-4'>
-        developed with ❤️ at ducs by sakshi
+        developed with ❤️ at MERI by Parikshit
       </footer>
     </main>
     </>

@@ -50,7 +50,7 @@ export default function Home() {
         )
       }
       <footer className='text-small w-full text-center mt-4'>
-        developed with ❤️ at MARI by Parikshit
+        developed with ❤️ at MERI by Parikshit
       </footer>
     </main>
     </>
